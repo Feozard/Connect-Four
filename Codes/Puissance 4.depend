@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1634031041 source:h:\home\documents\tp info\micro projet\puissance 4\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1634034174 source:h:\home\documents\tp info\micro projet\puissance 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634031279 source:h:\home\documents\tp info\micro projet\puissance 4\matrice_complete.c
+	<stdio.h>
+	<stdlib.h>
+
+1634031041 source:\\e-srvdata\e190448\home\documents\tp info\micro projet\puissance 4\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1634138956 source:\\e-srvdata\e190448\home\documents\tp info\micro projet\puissance 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634133857 source:\\e-srvdata\e190448\home\documents\tp info\micro projet\puissance 4\ajouter_pion.c
+
+1634141674 source:\\e-srvdata\e190448\home\documents\tp info\micro projet\puissance 4\victoire.c
+
+1635539262 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+
+1635452738 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\ajouter_pion.c
+
+1635591632 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635590206 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\victoire.c
+
+1634384387 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1634384386 c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\conio.h
+	<stdio.h>
+
+1635526685 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\verif_ajouter_pion.c
+	<stdio.h>
+	<stdlib.h>
+
+1635456187 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\affichage_fin.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1635527507 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\affichage_debut.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+
+1635194741 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\tableau_des_scores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635452734 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\maj.c
+
+1635536271 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\historique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635523340 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\tour.c
+
+1635536197 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\jouer_un_tour.c
+	<stdio.h>
+	<stdlib.h>
+
+1635527507 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+
+1635587620 source:c:\documents\ensim\3a\algorithmique\puissance 4\puissance 4\victoire2.c
+
+1634384387 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1634384386 c:\documents\ensim\3a\algorithmique\puissance 4\codes\conio.h
+	<stdio.h>
+
+1635527507 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+
+1635592806 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+
+1635593032 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\historique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635592735 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635592989 source:c:\documents\ensim\3a\algorithmique\puissance 4\codes\victoire.c
+
